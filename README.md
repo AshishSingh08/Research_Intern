@@ -66,3 +66,13 @@ ResNet -:
 
 ![r](https://github.com/AshishSingh08/Research_Intern/assets/101579954/febf9f70-6f07-4b8b-b193-88f7eba4029d)
 
+
+For disease diagnosis & medication recommendation Random Forest model performed the best -:
+
+
+![f](https://github.com/AshishSingh08/Research_Intern/assets/101579954/b13b103c-8b69-459a-a3ea-3bd0ac7b7d0d)
+
+
+
+
+
