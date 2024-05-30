@@ -27,7 +27,7 @@ To run Disease diagnosis and medication recommendation app, follow these steps-:
 
 Results of Machine Learning Models are as follows -:
 
-![img5](https://github.com/AshishSingh08/Research_Intern/assets/101579954/fc7a08d4-c438-4f84-a5ca-84811c9b4530)
+![conc](https://github.com/AshishSingh08/Research_Intern/assets/101579954/2be7a81c-31e9-466f-815a-a3eeada3b3b7)
 
 
 Graphs are as follows -:
